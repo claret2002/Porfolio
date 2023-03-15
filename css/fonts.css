@@ -1,0 +1,19 @@
+@font-face {
+    font-family:montreal;
+    src: url(../fonts/PPNeueMontreal-Medium.otf);
+}
+
+@font-face{
+    font-family:plan_semibold;
+    src:url(../fonts/Plantin\ Semibold.otf)
+}
+
+@font-face{
+    font-family:plantin;
+    src:url(../fonts/Plantin.ttf)
+}
+
+@font-face{
+    font-family:plan_ligt;
+    src:url(../fonts/Plantin\ Light.otf)
+}
