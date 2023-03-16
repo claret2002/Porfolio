@@ -199,7 +199,7 @@ body {
     position: fixed;
     top: 0;
     width: 100%;
-    background-color:black;
+    background-color:white;
     color:white;
     font-family: plan_semibold;
     font-size: .9em;
@@ -222,7 +222,7 @@ body {
 }
 
 .poster-background {
-    background-color:black;
+    background-color:white;;
 }
 
 .logo-link {
