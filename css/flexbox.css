@@ -3,7 +3,7 @@
 .me{
     display:flex;
     flex-wrap: wrap;
-    justify-content: flex-end;
+    justify-content: 95%;
     flex-direction: row;
     gap:1rem;
 }
@@ -13,7 +13,9 @@
     display: flex;
     flex-direction: row;
     gap: 1.25rem;
+    flex-wrap: wrap;
 }
+
 
 .memories {
     display: flex;

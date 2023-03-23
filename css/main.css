@@ -150,16 +150,19 @@ body {
 }
 
 .dormify-img {
+    display: flex;
     width: 38rem;
     height: 25.875rem;
 }
 
 .tp-img {
+    display: flex;
     width: 48.6rem;
     height: auto;
 }
 
 .poster-img {
+    display: flex;
     width: 34.25rem;
     height: 37.626rem;
 }
