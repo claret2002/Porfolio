@@ -1,19 +1,16 @@
+/* Founders regular */
 @font-face {
-    font-family:montreal;
-    src: url(../fonts/PPNeueMontreal-Medium.otf);
+    font-family: "FoundersGrotesk-Regular" ;
+    src: url(../fonts/FoundersGrotesk-Regular.woff);
 }
 
-@font-face{
-    font-family:plan_semibold;
-    src:url(../fonts/Plantin\ Semibold.otf)
+/* Founders mono */
+@font-face {
+    font-family: "test-founders-grotesk-mono-regular" ;
+    src: url(../fonts/test-founders-grotesk-mono-regular.woff2);
 }
 
-@font-face{
-    font-family:plantin;
-    src:url(../fonts/Plantin.ttf)
-}
-
-@font-face{
-    font-family:plan_ligt;
-    src:url(../fonts/Plantin\ Light.otf)
+@font-face {
+    font-family: "FoundersGrotesk-Medium" ;
+    src: url(../fonts/FoundersGrotesk-Medium.woff);
 }
